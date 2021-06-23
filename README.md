@@ -12,7 +12,7 @@ as you write your code.
 
 For this project, you will need to build out both a JavaScript frontend and
 Rails API backend. There are no tests, but a set of goals for you to try and
-achieve.
+achieve. 
 
 You are going to help us keep track of Pokemon trainers at Flatiron School.
 The data about trainers and Pokemon will be stored on a Rails API, but we can
